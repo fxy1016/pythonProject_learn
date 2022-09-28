@@ -12,7 +12,7 @@ def creat_request(page):
     data = {
         'cname': '北京',
         'pid': '',
-        'pageIndex': 1,
+        'pageIndex': page,
         'pageSize': 10,
     }
 
