@@ -1,0 +1,3 @@
+response.text:字符串
+response.body:二进制
+response.xpath(''):xpath方法
